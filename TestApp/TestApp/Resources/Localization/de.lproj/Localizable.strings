@@ -1,0 +1,20 @@
+/* 
+  Localizable.strings
+  TestApp
+
+  Created by Stanislav Tereshchenko on 27.04.2024.
+  
+*/
+"timer" = "Timer";
+"maps" = "Karten";
+"info" = "Info";
+"reload" = "Neu laden";
+"country" = "Land";
+"countryCode" = "Ländercode";
+"region" = "Region";
+"city" = "Stadt";
+"latitude" = "Breitengrad";
+"longitude" = "Längengrad";
+"rateApp" = "App bewerten";
+"shareApp" = "App teilen";
+"contactUs" = "Kontaktiere uns";
